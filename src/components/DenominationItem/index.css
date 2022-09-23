@@ -1,0 +1,22 @@
+/* Write your CSS here */
+.li-container {
+  list-style: none;
+}
+.button-container {
+  background-color: #585076;
+  width: 90px;
+  height: 30px;
+  border-color: #d4d2db;
+  border-style: solid;
+  border-width: 1px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+  cursor: pointer;
+  color: #d4d2db;
+  font-family: 'Roboto';
+  font-size: 20px;
+  outline: none;
+}
